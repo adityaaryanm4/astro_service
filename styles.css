@@ -166,7 +166,8 @@ li {
 
     /* Adjust the styles for the navbar */
     .nav-brand h1 {
-        font-size: 1rem;
+        font-size: 1.1rem;
+        font-weight: 600;
     }
 
     /* Adjust the styles for the hero section */
@@ -186,6 +187,7 @@ li {
 
     .tag_line {
         font-size: 1.8rem;
+        line-height: 1.3;
     }
 
     .sub_tag_line {
@@ -193,7 +195,7 @@ li {
     }
 
     .promo_text {
-        font-size: 0.9rem;
+        font-size: 0.99rem;
         line-height: 1.5rem;
         text-align: left;
     }
@@ -216,7 +218,7 @@ li {
     }
 
     .query_box {
-        width: 60%;
+        width: 80%;
         padding: 20px;
     }
 
